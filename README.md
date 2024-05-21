@@ -84,14 +84,9 @@ This folder contains sample data and data descriptions. It is used for testing a
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contact
+## Contributors
 
 For any questions or further information, please contact:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Institution**: Tailong Finance School, Zhejiang Gongshang University
-
----
-
-By following the instructions in this README, you should be able to set up, run, and interact with the Dash web application that visualizes data from the Tailong Finance School.
+- Xinyu Song, Kun Yu, He Ni
+- Tailong Finance School, Zhejiang Gongshang University
