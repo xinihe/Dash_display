@@ -31,4 +31,8 @@ app.layout = html.Div(children=[
 ])
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    #app.run_server(debug=True)
+    # Make the app accessible from other devices on the local network; 10.60.57.78 is my Local IP address
+    # Open a web browser on another device on the same local network and go to http://<your-local-ip>:8050/. 
+    # Replace <your-local-ip> with the IP address you found in the previous step.
+    app.run_server(host='0.0.0.0', port=8050, debug=True)
